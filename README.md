@@ -78,7 +78,7 @@ no language setting of its own.
 Ask your agent in Herdr:
 
 ```text
-Add the Herdr mod github.com/<owner>/tokitoki-herdr to my status bar
+Add the Herdr mod github.com/tokitoki-dev/tokitoki-herdr to my status bar
 ```
 
 Or by hand, from a clone of this repository:
