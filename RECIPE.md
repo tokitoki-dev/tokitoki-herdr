@@ -1,10 +1,11 @@
 # Tokitoki
 
-A slim strip along the bottom of Herdr with today's coding time and AI tokens
-from [tokitoki.dev](https://tokitoki.dev), and the project the focused terminal
-is in. Click it for a small popup: today's two figures, the last seven days as
-bars, and a button to the dashboard (or, without an account yet, a field for
-the API key). Time spent in Herdr's terminals is reported to Tokitoki too.
+A WakaTime-style time tracker for coding and AI agents in Herdr's status bar:
+today's coding time, the focused terminal's project and AI token usage
+(Claude Code, Codex and more) from [tokitoki.dev](https://tokitoki.dev). Time
+tracking is automatic, including time in Herdr's terminals. Click it for a small
+popup: today's two figures, the last seven days as bars, and a button to the
+dashboard (or, without an account yet, a field for the API key).
 
 ![Tokitoki](preview.png)
 
